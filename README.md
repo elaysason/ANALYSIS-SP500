@@ -1,4 +1,5 @@
 # ANALYSIS-SP500
+Using pca and transformations to analyze s&p dataset.
 
 1. [General](#General)
     - [Background](#background)
@@ -6,3 +7,8 @@
 3. [Footnote](#footnote)
 
 ## General
+The exerice is fouced around the data from 2016 and includs only stocks which had data for each one of the days in the year.
+### Background
+The data is formed from two files:
+* Prices - Includs stock symbol, volume,open, close and high prices. The data is ranging 2010 to 2016.
+* Securities - Has more 
