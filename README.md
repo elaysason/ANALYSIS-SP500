@@ -26,6 +26,7 @@ I will use google as an example, but similar process can be performed on other n
 	<img src="https://i.imgur.com/2O2HNRT.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width=40% height=40% />
 
 3. Now the folder is in your files on colab. Simpily download the notebook as showed
+
     <img src="https://i.imgur.com/cnMCaPx.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width=30% height=30% />
 
 ## Footnote
