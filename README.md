@@ -11,4 +11,4 @@ The exerice is fouced around the data from 2016 and includs only stocks which ha
 ### Background
 The data is formed from two files:
 * Prices - Includs stock symbol, volume,open, close and high prices. The data is ranging 2010 to 2016.
-* Securities - Has more 
+* Securities - Has additional information about the stocks. It includs the stock sector, sub industry, address of headquarters, security and filling type.
